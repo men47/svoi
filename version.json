@@ -1,7 +1,7 @@
 {
   "version": "1.0.17",
   "versionCode": 18,
-  "changelog": "Р”РѕР±Р°РІР»РµРЅР° С„СѓРЅРєС†РёСЏ Р±С‹СЃС‚СЂРѕР№ РѕС‡РёСЃС‚РєРё РІСЃРµС… СѓР·Р»РѕРІ Рё РїРѕРґРїРёСЃРѕРє, РѕРїС‚РёРјРёР·Р°С†РёСЏ СѓСЃС‚Р°РЅРѕРІС‰РёРєР° Рё Р°РІС‚РѕРїРµСЂРµР·Р°РїСѓСЃРє.",
+  "changelog": "Добавлена функция быстрой очистки всех узлов и подписок, оптимизация установщика и автоперезапуск.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "versionCode": 19,
-  "changelog": "Добавлена постоянная кнопка принудительного обновления в шапке с цветовой индикацией, функция очистки узлов и улучшенный установщик.",
+  "version": "1.0.19",
+  "versionCode": 20,
+  "changelog": "Группировка серверов по подпискам в раскрывающиеся списки (Happ-style), ручное и фоновое автообновление узлов, статус трафика.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
 }

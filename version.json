@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "versionCode": 18,
-  "changelog": "Добавлена функция быстрой очистки всех узлов и подписок, оптимизация установщика и автоперезапуск.",
+  "version": "1.0.18",
+  "versionCode": 19,
+  "changelog": "Добавлена постоянная кнопка принудительного обновления в шапке с цветовой индикацией, функция очистки узлов и улучшенный установщик.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
 }

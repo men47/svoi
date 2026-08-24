@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "versionCode": 20,
-  "changelog": "Группировка серверов по подпискам в раскрывающиеся списки (Happ-style), ручное и фоновое автообновление узлов, статус трафика.",
+  "version": "1.0.20",
+  "versionCode": 21,
+  "changelog": "Исправлена работа режима «Авто | Наилучший узел»: устранен DNS-дедлок, внедрен быстрый 204 URL-Test, добавлена предстартовая сортировка узлов по латентности и фильтрация кандидатов (без Болгарии).",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
 }

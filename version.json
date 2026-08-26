@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "versionCode": 21,
-  "changelog": "Исправлена работа режима «Авто | Наилучший узел»: устранен DNS-дедлок, внедрен быстрый 204 URL-Test, добавлена предстартовая сортировка узлов по латентности и фильтрация кандидатов (без Болгарии).",
+  "version": "1.0.21",
+  "versionCode": 22,
+  "changelog": "Svoi VPN 2.0: внедрена Anti-DPI фрагментация TLS ClientHello (tls.fragment), универсальный парсер всех протоколов (VLESS Reality, Shadowsocks, Trojan, TUIC, Hysteria2, WireGuard/AmneziaWG с обфускацией), честный L7 Ping и реанимация РФ-мостов.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "versionCode": 22,
-  "changelog": "Svoi VPN 2.0: внедрена Anti-DPI фрагментация TLS ClientHello (tls.fragment), универсальный парсер всех протоколов (VLESS Reality, Shadowsocks, Trojan, TUIC, Hysteria2, WireGuard/AmneziaWG с обфускацией), честный L7 Ping и реанимация РФ-мостов.",
+  "version": "1.0.22",
+  "versionCode": 23,
+  "changelog": "Svoi VPN 2.0: Исправлена генерация конфигураций Sing-box 1.13, добавлена встроенная pre-flight валидация ядра, обновлен пул из 70+ проверенных мировых узлов и РФ-мостов.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
 }

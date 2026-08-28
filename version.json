@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "versionCode": 23,
-  "changelog": "Svoi VPN 2.0: Исправлена генерация конфигураций Sing-box 1.13, добавлена встроенная pre-flight валидация ядра, обновлен пул из 70+ проверенных мировых узлов и РФ-мостов.",
+  "version": "1.0.23",
+  "versionCode": 24,
+  "changelog": "Svoi VPN 2.0: Полное устранение сбоев DNS-detour в Sing-box 1.13, сквозная сортировка узлов по пингу, гарантированные белые SNI для авто-выбора.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
 }

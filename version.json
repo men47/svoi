@@ -1,7 +1,7 @@
 {
-  "version": "1.0.23",
-  "versionCode": 24,
-  "changelog": "Svoi VPN 2.0: Полное устранение сбоев DNS-detour в Sing-box 1.13, сквозная сортировка узлов по пингу, гарантированные белые SNI для авто-выбора.",
+  "version": "1.0.24",
+  "versionCode": 25,
+  "changelog": "Svoi VPN v1.0.24: Полноценная поддержка Android с in-process ядром Sing-box 1.13 (libbox.aar), защита от петель маршрутизации, адаптивный интерфейс и надежная установка обновлений.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
 }

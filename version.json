@@ -1,9 +1,9 @@
 {
-  "version": "1.0.27",
-  "versionCode": 28,
-  "changelog": "Svoi VPN v1.0.27: Устранен нативный вылет при подключении на Android (изоляция туннеля от default interface monitor, вызов Builder.establish на Main Looper, строгая валидация сетевых интерфейсов, системный стек), ускорено открытие и навигация меню действий AppBar (MenuAnchor без задержки 300 мс).",
+  "version": "1.0.28",
+  "versionCode": 29,
+  "changelog": "Svoi VPN v1.0.28: Исправлена работа клиента на Android (переход на gVisor/mixed стек и активация auto_route в TUN для надежного перехвата трафика), восстановлен автоматический ежечасный сбор и L7-валидация европейских Reality-узлов на сервере, обновлен пул подписки Happ до 36 серверов с автовыбором.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
-  "sha256Windows": "2259B9C606262E7F83E754364A8DC2CBFE35BE04164F9F30031144EA2DA28D3F",
-  "sha256Android": "50E29134815B826F677CB327F4C85F5BC69478FBF53A1F146791CB5ABEBD1B0E"
+  "sha256Windows": "36A66F9ECEA897C6219838363BC17B16F213AF77914241E798D3013A6FD660AE",
+  "sha256Android": "6FF0B3362DFDFDE4605205BB728AA195EC4EEB017D1F8F101A20CDBA12549A0E"
 }

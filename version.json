@@ -1,7 +1,9 @@
 {
-  "version": "1.0.24",
-  "versionCode": 25,
-  "changelog": "Svoi VPN v1.0.24: Полноценная поддержка Android с in-process ядром Sing-box 1.13 (libbox.aar), защита от петель маршрутизации, адаптивный интерфейс и надежная установка обновлений.",
-  "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
-  "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk"
+  "version": "1.0.25",
+  "versionCode": 26,
+  "changelog": "Svoi VPN v1.0.25: Устранение критического сбоя подключения на Android, полная адаптация интерфейса под мобильные экраны и вырезы, корректный перенос текста.",
+  "downloadUrlWindows": "https://github.com/men47/svoi/releases/download/v1.0.25/SvoiVPN_Setup.exe",
+  "downloadUrlAndroid": "https://github.com/men47/svoi/releases/download/v1.0.25/app-release.apk",
+  "sha256Windows": "6abbd57967bb7d5670e1980156e2dbe446e912f221f53b12b6e99264cd4a7952",
+  "sha256Android": "91fe0f69c11b4e9373d5b599d6d9a5286a1891109deef4d7ed32d1acc782041c"
 }

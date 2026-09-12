@@ -1,9 +1,9 @@
 {
-  "version": "1.0.28",
-  "versionCode": 29,
-  "changelog": "Svoi VPN v1.0.28: Исправлена работа клиента на Android (переход на gVisor/mixed стек и активация auto_route в TUN для надежного перехвата трафика), восстановлен автоматический ежечасный сбор и L7-валидация европейских Reality-узлов на сервере, обновлен пул подписки Happ до 36 серверов с автовыбором.",
-  "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
-  "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
-  "sha256Windows": "36A66F9ECEA897C6219838363BC17B16F213AF77914241E798D3013A6FD660AE",
-  "sha256Android": "6FF0B3362DFDFDE4605205BB728AA195EC4EEB017D1F8F101A20CDBA12549A0E"
+  "version": "1.0.29",
+  "versionCode": 30,
+  "changelog": "Svoi VPN v1.0.29: Исправлен запуск туннеля на Android (auto_route: false для системного VpnService.Builder, устранение паники ядра), улучшена подписка Happ с привязкой Автовыбора к VIP Болгария 10G, очищен пул от блокируемых ТСПУ портов и SNI.",
+  "downloadUrlWindows": "https://github.com/men47/svoi/releases/download/v1.0.29/SvoiVPN_Setup.exe",
+  "downloadUrlAndroid": "https://github.com/men47/svoi/releases/download/v1.0.29/app-release.apk",
+  "sha256Windows": "17fba49fe8142ffc4e64dbd1a6961780e0fa90a251275f899a3a4c13557b26d1",
+  "sha256Android": "52b21621c9cb92e38fac6e7d3429adc4b608d9a6cd79a8d42f914f56b03c2fa8"
 }

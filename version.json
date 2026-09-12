@@ -1,9 +1,9 @@
 {
-  "version": "1.0.26",
-  "versionCode": 27,
-  "changelog": "Svoi VPN v1.0.26: Устранено аварийное завершение (Go panic на IPv6) при подключении на Android, улучшена адаптивность интерфейса, исправлено перекрытие кнопок в AppBar и карточке сервера.",
+  "version": "1.0.27",
+  "versionCode": 28,
+  "changelog": "Svoi VPN v1.0.27: Устранен нативный вылет при подключении на Android (изоляция туннеля от default interface monitor, вызов Builder.establish на Main Looper, строгая валидация сетевых интерфейсов, системный стек), ускорено открытие и навигация меню действий AppBar (MenuAnchor без задержки 300 мс).",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
-  "sha256Windows": "113FE60B4A8037D1BFF1BCC1963A5ADEF0BA1C4CFEDDEDE046D52AAD70AD8AE3",
-  "sha256Android": "7C8A839E5CD882E1D3C008AE5C6BC6E69B6EFC8A118BA302BE16FACF893B9ACF"
+  "sha256Windows": "2259B9C606262E7F83E754364A8DC2CBFE35BE04164F9F30031144EA2DA28D3F",
+  "sha256Android": "50E29134815B826F677CB327F4C85F5BC69478FBF53A1F146791CB5ABEBD1B0E"
 }

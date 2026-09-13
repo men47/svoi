@@ -1,9 +1,9 @@
 {
-  "version": "1.0.31",
-  "versionCode": 32,
-  "changelog": "Svoi VPN v1.0.31: Устранен критический мгновенный вылет при подключении на Android 8–15 и MIUI/HyperOS (новая монохромная векторная иконка уведомления, безопасная инициализация Libbox без порчи stderr, защита gomobile JNI-границы в openTun). Добавлено встроенное окно «Логи и диагностика» с возможностью копирования полного отчета.",
+  "version": "1.0.32",
+  "versionCode": 33,
+  "changelog": "Svoi VPN v1.0.32: Комплексное устранение аварийного завершения (Native OS Kill) на HyperOS/MIUI, OneUI и MagicOS: вызов VpnService.Builder.establish() маршалирован на Main Looper, исключен преждевременный отзыв TUN-сессии (сохранение ParcelFileDescriptor), сетевой стек Android переведен на чистый userspace gVisor, обеспечена 100% защита JNI-рефлексии gomobile в Release (R8), внедрен энергонезависимый BootLog для полной трассировки.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
-  "sha256Windows": "B1395B2C6781B4F82CC749DA4CAA90D5550CCCEEFD1D446914B2B978A6CE6B7C",
-  "sha256Android": "4560C3EEAB1EC368300A7712F68F16CEECDEE23B93F359ECAA65AF1312749914"
+  "sha256Windows": "BD3739344A24EE2939ED109420DB4A2B629A2886301D7D051F7B8716550094C4",
+  "sha256Android": "8714B19CCB0531361F9295591297E42C01B928107682EAD7654AA30555E1A285"
 }

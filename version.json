@@ -1,9 +1,9 @@
 {
-  "version": "1.0.29",
-  "versionCode": 30,
-  "changelog": "Svoi VPN v1.0.29: Исправлен запуск туннеля на Android (auto_route: false для системного VpnService.Builder, устранение паники ядра), улучшена подписка Happ с привязкой Автовыбора к VIP Болгария 10G, очищен пул от блокируемых ТСПУ портов и SNI.",
-  "downloadUrlWindows": "https://github.com/men47/svoi/releases/download/v1.0.29/SvoiVPN_Setup.exe",
-  "downloadUrlAndroid": "https://github.com/men47/svoi/releases/download/v1.0.29/app-release.apk",
-  "sha256Windows": "17fba49fe8142ffc4e64dbd1a6961780e0fa90a251275f899a3a4c13557b26d1",
-  "sha256Android": "52b21621c9cb92e38fac6e7d3429adc4b608d9a6cd79a8d42f914f56b03c2fa8"
+  "version": "1.0.30",
+  "versionCode": 31,
+  "changelog": "Svoi VPN v1.0.30: Исправлен вылет на Android при нажатии «Подключиться» (синхронный TUN без блокировок, 100% защита JNI-границы от паники ядра, адаптация под Android 7-15 и китайские оболочки MIUI/HyperOS, EMUI, ColorOS, OneUI). Стабильная работа «Болгария VIP 10G» и «Автовыбор».",
+  "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
+  "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
+  "sha256Windows": "50121F51E9774528DDA9E1020F286E006D90BFAD82E22E0ADBBD5F3B0471B9C9",
+  "sha256Android": "93FB260C23E684534CA99DF4E858059EC638BE07E3A36D0E80C81A50AAA56061"
 }

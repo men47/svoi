@@ -1,9 +1,9 @@
 {
-  "version": "1.0.30",
-  "versionCode": 31,
-  "changelog": "Svoi VPN v1.0.30: Исправлен вылет на Android при нажатии «Подключиться» (синхронный TUN без блокировок, 100% защита JNI-границы от паники ядра, адаптация под Android 7-15 и китайские оболочки MIUI/HyperOS, EMUI, ColorOS, OneUI). Стабильная работа «Болгария VIP 10G» и «Автовыбор».",
+  "version": "1.0.31",
+  "versionCode": 32,
+  "changelog": "Svoi VPN v1.0.31: Устранен критический мгновенный вылет при подключении на Android 8–15 и MIUI/HyperOS (новая монохромная векторная иконка уведомления, безопасная инициализация Libbox без порчи stderr, защита gomobile JNI-границы в openTun). Добавлено встроенное окно «Логи и диагностика» с возможностью копирования полного отчета.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
-  "sha256Windows": "50121F51E9774528DDA9E1020F286E006D90BFAD82E22E0ADBBD5F3B0471B9C9",
-  "sha256Android": "93FB260C23E684534CA99DF4E858059EC638BE07E3A36D0E80C81A50AAA56061"
+  "sha256Windows": "B1395B2C6781B4F82CC749DA4CAA90D5550CCCEEFD1D446914B2B978A6CE6B7C",
+  "sha256Android": "4560C3EEAB1EC368300A7712F68F16CEECDEE23B93F359ECAA65AF1312749914"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.0.36",
-  "versionCode": 37,
-  "changelog": "Svoi VPN v1.0.36: исправлена критическая ошибка запуска DNS (убран недопустимый detour direct), добавлена прямая маршрутизация bootstrap DNS серверов, исправлена установка обновления на Windows.",
+  "version": "1.0.37",
+  "versionCode": 38,
+  "changelog": "Svoi VPN v1.0.37: устранена блокировка DNS-трафика ТСПУ (восстановлен bootstrap 77.88.8.8, исключена утечка 1.1.1.1 direct), добавлен строгий перехват DNS (port: 53), восстановлен ForegroundService на Android 14+, добавлена поддержка ALPN для CDN/WS узлов.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
-  "sha256Windows": "F3A993F2C182B83B0858D1D3F39982B12FBD952DC1829AAA0CAA6FD74618479D",
-  "sha256Android": "4A5260054D8B6FB1D7872FCCC26FDF5D7B9515A68CD3AAFCEAC342F4DCB792CF"
+  "sha256Windows": "A62B38F93E1830D68C6127230D1CBE8539A8542B5378BF3A79818B894AC3263F",
+  "sha256Android": "BDF71047FD89C82F369FA1C27065D6AE7DA58794C0AA298E7C18E5A1882982ED"
 }

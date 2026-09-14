@@ -1,9 +1,9 @@
 {
-  "version": "1.0.33",
-  "versionCode": 34,
-  "changelog": "Svoi VPN v1.0.33: Архитектурная изоляция ядра Sing-box в отдельном процессе Android (:vpn) для устранения конфликта сигналов ART/Flutter и Go runtime, безопасное дублирование TUN дескриптора (dup/detachFd) против bionic fdsan aborts, гарантированный запуск Foreground Service на Android 8-15.",
+  "version": "1.0.34",
+  "versionCode": 35,
+  "changelog": "Svoi VPN v1.0.34: РСЃРїСЂР°РІР»РµРЅР° СЃРѕРІРјРµСЃС‚РёРјРѕСЃС‚СЊ VPN СЃ Android 12 / EMUI / HyperOS / MIUI (СѓР±СЂР°РЅ РЅРµРєРѕСЂСЂРµРєС‚РЅС‹Р№ foregroundServiceType РІ РјР°РЅРёС„РµСЃС‚Рµ), РґРѕР±Р°РІР»РµРЅ Р·Р°РїСЂРѕСЃ РёСЃРєР»СЋС‡РµРЅРёСЏ РёР· РѕРїС‚РёРјРёР·Р°С†РёРё Р±Р°С‚Р°СЂРµРё РїРµСЂРµРґ СЃС‚Р°СЂС‚РѕРј РґР»СЏ РїСЂРµРґРѕС‚РІСЂР°С‰РµРЅРёСЏ СѓР±РёР№СЃС‚РІР° `:vpn` РїСЂРѕС†РµСЃСЃР° СЃРёСЃС‚РµРјРѕР№, РёСЃРїСЂР°РІР»РµРЅР° РєРѕРЅС„РёРіСѓСЂР°С†РёСЏ DNS (server_port: 53), РѕР±РЅРѕРІР»С‘РЅ Kotlin 2.2.20.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
   "sha256Windows": "012EF38E7D83250B1C1A43C7686E9A41C1307DB4EB1F2FC9F4ADC11442DC520C",
-  "sha256Android": "1F7F94188450067C1A7E4FC91FF691D456C3E1E291B51780A654E90FF33F241A"
+  "sha256Android": "064B7E1377F0C8FE0D4957B940A06347C979AF5CDE43B51AFD4BB8D905392A34"
 }

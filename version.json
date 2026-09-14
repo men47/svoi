@@ -1,9 +1,9 @@
 {
-  "version": "1.0.34",
-  "versionCode": 35,
-  "changelog": "Svoi VPN v1.0.34: РСЃРїСЂР°РІР»РµРЅР° СЃРѕРІРјРµСЃС‚РёРјРѕСЃС‚СЊ VPN СЃ Android 12 / EMUI / HyperOS / MIUI (СѓР±СЂР°РЅ РЅРµРєРѕСЂСЂРµРєС‚РЅС‹Р№ foregroundServiceType РІ РјР°РЅРёС„РµСЃС‚Рµ), РґРѕР±Р°РІР»РµРЅ Р·Р°РїСЂРѕСЃ РёСЃРєР»СЋС‡РµРЅРёСЏ РёР· РѕРїС‚РёРјРёР·Р°С†РёРё Р±Р°С‚Р°СЂРµРё РїРµСЂРµРґ СЃС‚Р°СЂС‚РѕРј РґР»СЏ РїСЂРµРґРѕС‚РІСЂР°С‰РµРЅРёСЏ СѓР±РёР№СЃС‚РІР° `:vpn` РїСЂРѕС†РµСЃСЃР° СЃРёСЃС‚РµРјРѕР№, РёСЃРїСЂР°РІР»РµРЅР° РєРѕРЅС„РёРіСѓСЂР°С†РёСЏ DNS (server_port: 53), РѕР±РЅРѕРІР»С‘РЅ Kotlin 2.2.20.",
+  "version": "1.0.35",
+  "versionCode": 36,
+  "changelog": "Svoi VPN v1.0.35: РЈСЃС‚СЂР°РЅРµРЅР° Р±Р»РѕРєРёСЂРѕРІРєР° DNS-С‚СЂР°С„РёРєР° (deadlock) РЅР° Android С‡РµСЂРµР· РїСЂСЏРјРѕР№ РјР°СЂС€СЂСѓС‚ bootstrap/direct DNS, РёСЃРїСЂР°РІР»РµРЅР° РєРѕРґРёСЂРѕРІРєР° Р¶СѓСЂРЅР°Р»Р° РёР·РјРµРЅРµРЅРёР№, РѕР±РЅРѕРІР»РµРЅР° СЃРѕРІРјРµСЃС‚РёРјРѕСЃС‚СЊ СЃР»СѓР¶Р±С‹ Foreground Service РґР»СЏ Android 12-15 Рё EMUI, РѕР±РЅРѕРІР»РµРЅР° СЃР±РѕСЂРєР° РєР»РёРµРЅС‚Р° РґР»СЏ Windows.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
-  "sha256Windows": "012EF38E7D83250B1C1A43C7686E9A41C1307DB4EB1F2FC9F4ADC11442DC520C",
-  "sha256Android": "2F85730F3890A9142C45F75552F8ED7A77F738DAD42F10D586EC9666667B2E85"
+  "sha256Windows": "DD5BF08E583E4C095FE7F3A45244C602CA887077F1E9315BE657853135AA5580",
+  "sha256Android": "3C3C0E6A00D23302AF87DAF419B7726FEC6E5AD982E2529A4C6B308860206E9B"
 }

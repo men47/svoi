@@ -1,7 +1,7 @@
 {
   "version": "1.0.35",
   "versionCode": 36,
-  "changelog": "Svoi VPN v1.0.35: РЈСЃС‚СЂР°РЅРµРЅР° Р±Р»РѕРєРёСЂРѕРІРєР° DNS-С‚СЂР°С„РёРєР° (deadlock) РЅР° Android С‡РµСЂРµР· РїСЂСЏРјРѕР№ РјР°СЂС€СЂСѓС‚ bootstrap/direct DNS, РёСЃРїСЂР°РІР»РµРЅР° РєРѕРґРёСЂРѕРІРєР° Р¶СѓСЂРЅР°Р»Р° РёР·РјРµРЅРµРЅРёР№, РѕР±РЅРѕРІР»РµРЅР° СЃРѕРІРјРµСЃС‚РёРјРѕСЃС‚СЊ СЃР»СѓР¶Р±С‹ Foreground Service РґР»СЏ Android 12-15 Рё EMUI, РѕР±РЅРѕРІР»РµРЅР° СЃР±РѕСЂРєР° РєР»РёРµРЅС‚Р° РґР»СЏ Windows.",
+  "changelog": "Svoi VPN v1.0.35: Устранена блокировка DNS-трафика (deadlock) на Android через прямой маршрут bootstrap/direct DNS, исправлена кодировка журнала изменений, обновлена совместимость службы Foreground Service для Android 12-15 и EMUI, обновлена сборка клиента для Windows.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
   "sha256Windows": "DD5BF08E583E4C095FE7F3A45244C602CA887077F1E9315BE657853135AA5580",

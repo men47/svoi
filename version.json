@@ -1,9 +1,9 @@
 {
-  "version": "1.0.38",
-  "versionCode": 39,
-  "changelog": "Svoi VPN v1.0.38: устранена бесконечная буферизация YouTube (блокировка QUIC UDP 443 с мгновенным переключением на скоростной TCP HTTPS), оптимизирован MTU 1360 для мобильных сетей РФ, переключение TUN-стека на mixed для максимальной скорости видеопотока, исправление сертификата Reality на основном VIP-узле.",
+  "version": "1.0.39",
+  "versionCode": 40,
+  "changelog": "Svoi VPN v1.0.39: возврат к надёжной архитектуре прямого туннелирования, безопасный MTU 1280 для всех мобильных сетей РФ, устранение циклической DNS-петли и конфликтов локальных сокетов, блокировка QUIC UDP 443 для мгновенной загрузки YouTube по TCP HTTPS.",
   "downloadUrlWindows": "https://github.com/men47/svoi/releases/latest/download/SvoiVPN_Setup.exe",
   "downloadUrlAndroid": "https://github.com/men47/svoi/releases/latest/download/app-release.apk",
-  "sha256Windows": "A62B38F93E1830D68C6127230D1CBE8539A8542B5378BF3A79818B894AC3263F",
-  "sha256Android": "903CC5F165408760A46958B55A83E09F70CAADEC90701F45AB862CEC2580A991"
+  "sha256Windows": "7AB646C3F47E261B2ACAA65D4D8F64A60034FC9C748332F92C56961F1B998A30",
+  "sha256Android": "1EABCE4DE7B492748862D215383DD224C96E01140423975899527F3F7AFA3C88"
 }
